@@ -2,8 +2,6 @@
 
 +rules:
   - "DOMAIN-SUFFIX,baidu.com,DIRECT"
-  - "DOMAIN-SUFFIX,parsecusercontent.com,DIRECT"
-  - "DOMAIN-SUFFIX,parsec.app,DIRECT" 
   - "DOMAIN-SUFFIX,tencent.com,DIRECT"
   - "DOMAIN-SUFFIX,5v13.com,DIRECT"
   - "DOMAIN-SUFFIX,mac618.com,DIRECT"
