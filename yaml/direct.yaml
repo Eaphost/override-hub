@@ -1,11 +1,10 @@
 # 添加直连规则示例
 
-rules:
++rules:
   - "DOMAIN-SUFFIX,baidu.com,DIRECT"
   - "DOMAIN-SUFFIX,tencent.com,DIRECT"
   - "DOMAIN-SUFFIX,5v13.com,DIRECT"
   - "DOMAIN-SUFFIX,mac618.com,DIRECT"
   - "DOMAIN-SUFFIX,zhiniw.com,DIRECT"
   - "DOMAIN-SUFFIX,imacso.com,DIRECT"
-  - "RULE-SET,macked.app,🚀 节点选择"
 
